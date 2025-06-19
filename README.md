@@ -28,11 +28,10 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **a cybersecurity-focused web project called Hacktuan, along with a responsive portfolio website to showcase my work and services.**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 I’m currently learning **Data analisis with Python.**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ I've keen interest in Hacking. So,I'm learning **Pentesting Web**
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
 
 - 💬 Ask me about **web development, ethical hacking, Flipper Zero, React, responsive UI, and game balance testing.**
 
